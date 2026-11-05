@@ -1,0 +1,15 @@
+THSC EXTRACTOR - QUICK START
+
+1. Extract the entire ZIP into a folder on your computer.
+2. Ensure Python 3.10 or newer is installed and the python command works.
+3. Double-click Start THSC Extractor.cmd (Windows).
+4. Choose the school year, subject, and category. Choose 0 for All.
+5. Downloads appear in THSC Downloads inside this folder.
+
+Internet access is required. No extra Python packages are needed.
+Keep the window open while downloading. Press Ctrl+C to stop; run again
+to resume. Completed PDFs are skipped and failed sources are retried
+using available mirrors. See README.md for more options and reports.
+
+This package contains the general extractor and its tests.
+Previously downloaded papers are not included.
